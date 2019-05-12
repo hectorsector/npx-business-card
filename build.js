@@ -22,7 +22,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.green('hectorsector'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('hector-alfaro'),
   web: chalk.cyan('https://hectorsector.com'),
-  npx: chalk.red('npx') + ' ' + chalk.white('hectorsector'),
+  npx: chalk.red('npx') + ' ' + chalk.white('@hectorsector/card'),
   labelWork: chalk.white.bold('       Work:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelGitHub: chalk.white.bold('     GitHub:'),

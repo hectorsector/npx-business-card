@@ -1,16 +1,16 @@
 {
-  "name": "@bnb/card",
+  "name": "hectorsector",
   "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Hector Alfaro (@hectorsector)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "hectorsector": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/hectorsector/card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://hectorsector.com",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Hector Alfaro <hector@hectorsector.com> (http://hectorsector.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/hectorsector/card/issues"
   },
   "dependencies": {},
   "publishConfig": {
